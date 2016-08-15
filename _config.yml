@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6722341
+  lightness: 0.7287476
+  brandStrength: 0.7962192
+  rhythmicContrast: 0.09291303
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.3064516
+name: Kasa
